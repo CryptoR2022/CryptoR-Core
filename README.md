@@ -1,8 +1,8 @@
-# Pancake Factory
+# CryptoR Factory
 
-[![Actions Status](https://github.com/pancakeswap/pancake-swap-core/workflows/CI/badge.svg)](https://github.com/pancakeswap/pancake-swap-core/actions)
+[![Actions Status](https://github.com/CryptoR2022)
 
-In-depth documentation on PancakeSwap is available at [docs.pancakeswap.finance](https://docs.pancakeswap.finance/).
+In-depth documentation on CryptoR is available at [docs.cryptor.finance](https://docs.cryptoR.finance/).
 
 # Local Development
 
